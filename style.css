@@ -33,21 +33,21 @@ img {
 /*Define the custom font*/
 @font-face {
     font-family: 'BodyFont';
-    src: url('Fonts/Outfit-Regular.ttf') format('truetype');
+    src: url('Outfit-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'HeaderFont';
-    src: url('Fonts/YoungSerif-Regular.ttf') format('truetype');
+    src: url('YoungSerif-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'SubtopicFont';
-    src: url('Fonts/Outfit-Bold.ttf') format('truetype');
+    src: url('Outfit-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
