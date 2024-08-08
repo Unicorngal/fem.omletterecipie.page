@@ -1,0 +1,104 @@
+## Notes
+
+Theres a photo before the title
+The page has a color background and margins
+Number points in the instructions (small headings)
+Bullet points on the page
+There's a invisible borders card with preparation time details
+There's lines to consider adding
+There's a desktop and mobile design
+
+How I need to present my work:
+
+## Title
+
+Omlette Recipe Page
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+### Screenshot
+
+![](Images/Screenshot%20of%20Omlette%20Recipe%20WebPage.png)
+
+Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
+
+Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+- I started by reading through the project and jotting down the things that I would need to add and or research to complete this project (creating a checklist.) I learnt this from watching Jess from freeCodeCamp.org code on Youtube.
+- Added all the text
+- Made the margins of the content and gave the content a container - I learnt how to do this from checking W3 Schools
+- Created a CSS file and tinkered with the text to give them style. I learnt this from Mosh Hamadani's 1 hour html beginner class and from SheCode
+- Created he unordered and orderd list.
+- Added the image and ensured the style was in check
+- Linked my css file to my html file which I learnt from the HTML beginner classes by Bro Code
+- Worked on the table. I learnt from W3 Schools and Bro Code on You tube
+- Tried getting the correct colors of the design without the frontend mentor pro account, at first I used some online color code finder tools, and realized it wasn't looking accurate, so I opted to use canva.
+- Created the Prep time container and used the google dev editor to tinker to ensure it was looking like the design provided.
+- Editied the small details and cleaned up my code
+- Made the design compatible with mobile
+- Validated my code
+
+### Built with
+
+I used Visual Studio Code
+I used HTML and CSS
+
+### What I learned
+
+I learned how to create
+
+- Different types of content tables
+- Headers, rows, and box shadows
+- How to make my web page design compatible with a mobile device
+
+How to use
+
+- Git
+- Github
+
+The best places to research - twitter, discord, github, W3Schools, Frontendmentor spaces, stack overflow, and Youtube
+
+### Continued development
+
+I want to work on my HTML and CSS skills well enough to be able to do move from newbie projects to Junior Projects before I strat working on my JS skills. I want to hone my HTML and CSS skills.
+
+## Useful resources
+
+HTML + CSS Tutorial for beginners by Bro Code (https://www.youtube.com/watch?v=Ihy0QziLDf0&t=3s)
+HTML Crash Course by Mosh (https://www.youtube.com/watch?v=qz0aGYrrlhU)
+I found the code names of the colors by using some tools from canva.com
+SheCodes Athena showed me how to add custom fonts into my code
+Stack overflow
+
+## Author
+
+- Website - [Add your name here](https://www.your-site.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
+## Acknowledgments
+
+Mosh Hamedani is a great teacher!
+Bro code is a fast teacher
+It is really cool to watch developers code and realize that even seasoned developers have problems when they are coding. It made me feel like I'll get there - it was encouraging. Thank you Free Code camp
